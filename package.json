@@ -1,0 +1,23 @@
+{
+  "name": "fixedlengthlist",
+  "version": "1.0.0",
+  "description": " fixed length UI container, container can auto scale",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qly612525/fixedlengthList.git"
+  },
+  "author": "qian_leyi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qly612525/fixedlengthList/issues"
+  },
+  "homepage": "https://github.com/qly612525/fixedlengthList#readme",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1"
+  }
+}
